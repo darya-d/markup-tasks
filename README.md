@@ -1,6 +1,6 @@
 # markup-tasks
 
-Задания по верстке по курсу от Яндекса
+Задания по верстке по курсу от Яндекса ([Лекции](https://github.com/urfu-2016/markup-slides))
 
 ## Правила оформления кода:
 - [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md)
