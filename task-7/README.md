@@ -1,14 +1,5 @@
 # Задача «Бабуленькины котятки»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [JavaScript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-## Основное задание
-
 > __Задание необходимо решить без использования JS и с использованием Flex__
 
 Благодаря «Мяндекс.Муррркет» бабуленькины котятки продаются на ура! Всё больше
