@@ -1,14 +1,5 @@
 # Задача «DeLorean DMC-12»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [JavaScript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-## Основное задание
-
 :warning: Задание необходимо решить __без использования JS__
 
 Ровно год назад Марти МакФлай прилетел из прошлого. Там в прошлом у него не было ни

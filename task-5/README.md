@@ -1,15 +1,4 @@
-
-
 # Задача «Мяндекс.Муррркет»
-
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [JavaScript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-## Основное задание
 
 :warning: Задание необходимо решить __без использования JS и flex/grid__ (если вы знаете, что это)
 

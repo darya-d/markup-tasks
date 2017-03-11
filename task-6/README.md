@@ -1,14 +1,5 @@
 # Задача «Бабуленькин урожай»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [JavaScript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-## Основное задание
-
 __Задание необходимо решить без использования JS и flex/grid (если вы знаете, что это)__
 
 _Уж небо осенью дышало,  
@@ -51,4 +42,3 @@ _Уж небо осенью дышало,
 <img width="100%" src="https://cloud.githubusercontent.com/assets/4534405/10967598/712592ac-83dd-11e5-9d4d-69ee03c50c30.jpg">
 
 :warning: При написании задания ни одна морковка не была съедена , только печеньки :(
-

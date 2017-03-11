@@ -1,14 +1,5 @@
 # Задача «Вперед в прошлое»
 
-Перед выполнением задания внимательно прочитайте:
-
-- [О всех этапах проверки задания](https://github.com/urfu-2016/guides/blob/master/workflow/extra.md)
-- [Как отправить пулл](https://github.com/urfu-2016/guides/blob/master/workflow/pull.md)
-- [Как пройти тесты](https://github.com/urfu-2016/guides/blob/master/workflow/test.md)
-- Правила оформления [JavaScript](https://github.com/urfu-2016/guides/blob/master/codestyle/js.md), [HTML](https://github.com/urfu-2016/guides/blob/master/codestyle/html.md) и [CSS](https://github.com/urfu-2016/guides/blob/master/codestyle/css.md) кода
-
-### Основное задание
-
 __Задание необходимо решить без использования JS и с использованием всех технологий, которые вы узнали в прошлых лекциях__
 
 Очень известный в Екатеринбурге портал, назовём его e2.ru, решил обновиться и начать с обновления используемых технологий вёрстки. Мы предлагаем вам эту задачу. Т.е решением данного задания будет вёрстка, идентичная текущему внешнему виду упоминаемого ресурса, использующая передовые технологии.
